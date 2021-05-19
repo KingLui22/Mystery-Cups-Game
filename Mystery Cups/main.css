@@ -1,0 +1,59 @@
+a {
+	background-color: white;
+	color: black;
+	border-radius: 50%;
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+/*LEARN TO GET RID OF BUTTON WHITE BOX*/
+
+a:hover {
+	font-size: 200%;
+	cursor: pointer;
+}
+
+body {
+	background: rgb(133,166,166);
+	background: radial-gradient(circle, rgba(133,166,166,1) 50%, rgba(204,153,45,1) 100%);
+}
+
+h1 {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 250%;
+	margin-top: 1em; 
+	font-weight: bold;
+	text-decoration: underline;
+	letter-spacing: 0.3em;
+}
+
+p {
+	text-align: center;
+	font-family: fantasy;
+	margin-top: 2em;
+	margin-left: 4em;
+	margin-right: 4em;
+	font-size: 110%;
+	font-weight: bold;
+	word-spacing: 0.1em;
+}
+
+img {
+	object-fit: cover;
+	width: 30em;
+	height: 15em;
+	border-radius: 10%;
+}
+
+.refuse {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 250%;
+	font-weight: bold;
+	text-decoration: underline;
+	letter-spacing: 0.3em;
+}
